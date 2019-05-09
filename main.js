@@ -6,8 +6,6 @@ var scoreText;
 var platforms;
 var player;
 var playerVelocity;
-var planet;
-var enemy;
 var extremeMODE;
 var level;
 var highScore;
